@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2>Hello! I'm Flávio Mira, welcome to my GitHub profile!</h2>
+I'm Mechanical Engineer and a programming student in my second graduation 💻.<br>
+I also worked many years with graphic design. (Yes, i know that it's confused, but is true!😅)
+<br><br>
+<div>
+<a href="https://github.com/flavioMira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioMira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
+</a>
+</div>
 
-<!--
-**flavioMira/flavioMira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2></h2>
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" whidth="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  whidth="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" whidth="30px" height="30px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" whidth="40px" height="40px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<h2></h2>
+
+### Contatos: <br>
+<div>
+<a href = "mailto:flaviomira13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/flaviomira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
