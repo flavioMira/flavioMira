@@ -4,7 +4,6 @@ I also worked many years with graphic design. (Yes, i know that it's confused, b
 <br><br>
 <div>
 <a href="https://github.com/flavioMira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioMira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
 </a>
 </div>
