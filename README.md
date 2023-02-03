@@ -1,6 +1,6 @@
 <h2>Hello! I'm Flávio Mira, welcome to my GitHub profile!</h2>
 I'm Mechanical Engineer and a programming student in my second graduation 💻.<br>
-I also worked many years with graphic design. (Yes, i know that it's confused, but is true!😅)
+I also worked many years with graphic design.
 <br><br>
 <div>
 <a href="https://github.com/flavioMira">
