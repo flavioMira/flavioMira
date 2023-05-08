@@ -1,6 +1,4 @@
-<h2>Hello! I'm Flávio Mira, welcome to my GitHub profile!</h2>
-I'm Mechanical Engineer and a programming student in my second graduation 💻.<br>
-I also worked many years with graphic design.
+Estudante de Sistemas de Informação com forte interesse em desenvolvimento de software e tecnologias web. Possuo habilidades em TypeScript, React e Node tanto no frontend quanto no backend, e estou sempre em busca de aprender mais sobre as últimas tendências e tecnologias da área. Além disso, tenho experiência em projetos pessoais e de estudos que me permitem colocar em prática todo o conhecimento adquirido até agora. Estou em busca de oportunidades para crescer profissionalmente como Desenvolvedor Full-Stack e contribuir para o sucesso de uma empresa inovadora. Me considero um profissional dedicado e com vontade de aprender.
 <br><br>
 <div>
 <a href="https://github.com/flavioMira">
@@ -10,13 +8,11 @@ I also worked many years with graphic design.
 
 <h2></h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40px" height="40px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" height="40px"/>&nbsp;
 
 
 
