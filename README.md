@@ -1,18 +1,17 @@
-Estudante de Sistemas de Informação com forte interesse em desenvolvimento de software e tecnologias web. Possuo habilidades em TypeScript, React e Node tanto no frontend quanto no backend, e estou sempre em busca de aprender mais sobre as últimas tendências e tecnologias da área. Além disso, tenho experiência em projetos pessoais e de estudos que me permitem colocar em prática todo o conhecimento adquirido até agora. Estou em busca de oportunidades para crescer profissionalmente como Desenvolvedor Full-Stack e contribuir para o sucesso de uma empresa inovadora. Me considero um profissional dedicado e com vontade de aprender.
+Atuo com desenvolvimento de aplicações WEB, como Full-Stack, com as tecnologias Java com Spring Boot e Angular com Typescript, principalmente. Também tenho experiência em React.js, Next.js, Vue.js, Node.js (Express e Nest) e PHP com Laravel. 
+
+Possuo conhecimento em processos de mensageria, bancos de dados relacionais e não relacionais (Como postgrees, Mongo e MySQL), containers Docker, comandos GIT, github, gitlab. Tenho conhecimento/experiencia em processos com metodologias ágeis, Scrum, Kanban e XP e também em ferramentas como Jira.
+
+Estou sempre em busca de aprender mais sobre as últimas tendências e tecnologias da área.
 <br><br>
-<div>
-<a href="https://github.com/flavioMira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
-</a>
-</div>
 
 <h2></h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" height="40px"/>&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" height="40px"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40px" height="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px" height="40px"/>&nbsp;
 
 
 
